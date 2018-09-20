@@ -1,16 +1,21 @@
 _repo: The-House-of-Cariboo-and-Other-Tales-from-Arcadia_53220
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Graef, Robert A.
     gutenberg_agent_id: '47273'
     url: http://www.gutenberg.org/2009/agents/47273
+covers:
+- cover_type: archival
+  image_path: 53220-h/images/cover.jpg
 creator:
   author:
     agent_name: Gardiner, A. Paul
     gutenberg_agent_id: '47272'
     url: http://www.gutenberg.org/2009/agents/47272
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53220#The-House-of-Cariboo-and-Other-Tales-from-Arcadia
 gutenberg_issued: '2016-10-06'
 gutenberg_type: Text
 identifiers:
